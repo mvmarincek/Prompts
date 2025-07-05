@@ -1,2 +1,2 @@
-# Prompts-.gitkeep
+# Prompts
 Criação da pasta Prompts
